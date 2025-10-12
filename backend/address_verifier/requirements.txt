@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+python-dotenv
+google-api-python-client
+googlemaps
+geocoder
+geopy
+requests
+fuzzywuzzy
+python-Levenshtein
+pymongo
